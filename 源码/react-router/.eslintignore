@@ -1,4 +1,0 @@
-/packages/*/cjs/*.js
-/packages/*/esm/*.js
-/packages/*/umd/*.js
-/website
