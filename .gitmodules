@@ -1,3 +1,9 @@
-[submodule ".\\源码\\react-router"]
-	path = .\\源码\\react-router
+[submodule ".\\sourceCode\\react"]
+	path = .\\sourceCode\\react
+	url = https://github.com/facebook/react
+[submodule ".\\sourceCode\\react-router"]
+	path = .\\sourceCode\\react-router
 	url = https://github.com/ReactTraining/react-router
+[submodule ".\\sourceCode\\lodash"]
+	path = .\\sourceCode\\lodash
+	url = https://github.com/lodash/lodash.git
